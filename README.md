@@ -13,6 +13,8 @@ Features are extracted for a single ".bin" file ("filename") using the function 
 
 Indicative call: get_temp_features("patient_0.bin", "/Desktop/GGIR_output")
 
+\\
+\\
 
 
 **Extraction from multiple files** (_multiple_file_extraction.R_):
