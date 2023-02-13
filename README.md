@@ -13,8 +13,7 @@ Features are extracted for a single ".bin" file ("filename") using the function 
 
 Indicative call: get_temp_features("patient_0.bin", "/Desktop/GGIR_output")
 
-\\
-\\
+##
 
 
 **Extraction from multiple files** (_multiple_file_extraction.R_):
@@ -26,6 +25,6 @@ Indicative call: dt <- process_file_ls(c("patient_0.bin", "patient_1.bin"), "/De
 
 ****************************************
 
-**If you use this code please cite:**
+## **If you use this code please cite:**
 
 Edgley, K.; Chun, H.-Y.Y.; Whiteley, W.N.; Tsanas, A. New Insights into Stroke from Continuous Passively Collected Temperature and Sleep Data Using Wrist-Worn Wearables. Sensors 2023, 23, 1069. https://doi.org/10.3390/s23031069 
