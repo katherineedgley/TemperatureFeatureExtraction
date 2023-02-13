@@ -13,6 +13,6 @@ _get_temp_features_ can be modified to iterate through multiple ".bin" files as 
 
 ****************************************
 
-**If you use this program please cite:**
+**If you use this code please cite:**
 
 Edgley, K.; Chun, H.-Y.Y.; Whiteley, W.N.; Tsanas, A. New Insights into Stroke from Continuous Passively Collected Temperature and Sleep Data Using Wrist-Worn Wearables. Sensors 2023, 23, 1069. https://doi.org/10.3390/s23031069 
